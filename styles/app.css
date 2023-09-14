@@ -1,7 +1,29 @@
+body {
+  background-image: linear-gradient(to right, #ffd194, #d1913c);
+}
+
 h1,
 h2 {
-  color: blueviolet;
+  color: #02051e;
+  text-align: center;
+}
+p {
+  margin: 30px;
+  padding: 20px;
+  font-size: 18px;
+  color: brown;
+  font-family: "Times New Roman", Times, serif;
+}
+footer {
+  text-align: center;
+  font-size: medium;
+  color: #02051e;
 }
 a {
-  color: red;
+  text-decoration: none;
+  margin-left: 20px;
+  color: #02051e;
+}
+.email {
+  text-align: center;
 }
